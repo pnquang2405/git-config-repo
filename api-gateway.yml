@@ -12,4 +12,4 @@ resilience4j:
         slidingWindowSize: 10
         slidingWindowType: COUNT_BASED
 token:
-  secret: 12345689
+  secret: 1234568910
